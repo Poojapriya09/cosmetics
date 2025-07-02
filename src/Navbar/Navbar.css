@@ -94,7 +94,7 @@
   transition: background-color 0.3s ease;
 }
 .Navicons-image-02:hover::before {
-  content: "Sig  in/up"; /* The text you want to display */
+  content: "Sign  in/up"; /* The text you want to display */
   position: absolute;
   top: -25px; /* Adjust this value to position the text */
   left: 510px;
